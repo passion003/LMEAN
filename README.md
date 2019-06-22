@@ -1,2 +1,0 @@
-# LMEAN
-Learn MEANStack
